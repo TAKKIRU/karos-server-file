@@ -10,4 +10,6 @@ KarosRosh-mod.zip ( 2022 )
 
 xor-test.zip ( 2022 )
 
+StartServer.sh
+
 https://vk.com/gmtakki
