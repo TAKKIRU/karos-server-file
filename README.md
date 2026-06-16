@@ -2,7 +2,7 @@
 Файлы для конструкции эмулятора сервера Кароса
 
 
-decrypt-mamara ( 2022 )
+decrypt-mamarra ( 2022 )
 
 karos-axeso5-xtrap.idb
 
