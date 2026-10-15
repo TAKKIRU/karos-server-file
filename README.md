@@ -13,3 +13,40 @@ https://vk.com/gmtakki
 Питон установите себе на компьютер 3.14.8
 Затем отредактируйте файл start.bat, поменяйте там путь до файла server.py
 Затем запускайте start.bat и затем AMO-local.cmd
+
+RU
+
+Инструкция как перенести эмулятор в любой игровой клиент любой локализации.
+
+Перенесите следующие файлы в нужный для вас клиент.
+
+Папка data
+Папка server
+Файл AMo-local.cmd
+Файл Server.ten
+Файл ServerList.ten
+Файл start.bat
+Файл weberforclntv2.dll
+
+Затем установите питон последней версии и запустите файл server/server.py
+
+Затем запустите AMo-local.cmd
+
+ENG
+
+Instructions on how to move the emulator into any game client, regardless of its localization.
+
+Transfer the following files into your chosen game client:
+
+The 'data' folder
+The 'server' folder
+The 'AMo-local.cmd' file
+The 'Server.ten' file
+The 'ServerList.ten' file
+The 'start.bat' file
+The 'weberforclntv2.dll' file
+
+Next, install the latest version of Python and run the 'server/server.py' file.
+
+Then, run 'AMo-local.cmd'.
+
