@@ -2,7 +2,7 @@
 Файлы для конструкции эмулятора сервера Кароса
 Karos Server File Emulator
 
-[https://www.transfernow.net/dl/20261008zaoRfAkt](https://www.transfernow.net/dl/20261018Bcyx6moh)
+[[https://www.transfernow.net/dl/20261008zaoRfAkt]([https://www.transfernow.net/dl/20261018Bcyx6moh](https://www.transfernow.net/dl/20261026PxKBFasg))](https://www.transfernow.net/dl/20261026PxKBFasg)
 
 https://t.me/studioandromeda
 
