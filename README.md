@@ -2,7 +2,7 @@
 Файлы для конструкции эмулятора сервера Кароса
 Karos Server File Emulator
 
-https://www.transfernow.net/dl/20261026PxKBFasg
+https://www.transfernow.net/dl/karos-server-emulator
 
 https://t.me/studioandromeda
 
