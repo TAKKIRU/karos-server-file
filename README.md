@@ -1,8 +1,7 @@
 # karos-server-file
 Файлы для конструкции эмулятора сервера Кароса
 Karos Server File Emulator
-
-https://www.transfernow.net/dl/karos-server-emulator
+Готовый образ, скачать - https://www.transfernow.net/dl/karos-server-emulator
 
 https://t.me/studioandromeda
 
