@@ -1,50 +1,58 @@
 # karos-server-file
+
 Karos Server File Emulator
-Готовый образ, скачать - https://www.transfernow.net/dl/karos-server-emulator
+Готовый образ https://www.transfernow.net/dl/karos-server-emulator
 
-https://t.me/studioandromeda
+[Телеграм канал](https://t.me/studioandromeda), [Группа VK](https://vk.com/gmtakki)
 
-https://vk.com/gmtakki
-<a href="https://ibb.co/d09XYsML"><img src="https://i.ibb.co/272R40hs/4b-Thi4g-Gmp-JYXist-QIF1he-Ve-X57r6eyi-S9bjw1-DVdu-LZCjf4-Thc-Gl-DKYkw49vw-WYE0-JUg-Mc-Etgbc-St-Bka-DZt.webp" alt="4b-Thi4g-Gmp-JYXist-QIF1he-Ve-X57r6eyi-S9bjw1-DVdu-LZCjf4-Thc-Gl-DKYkw49vw-WYE0-JUg-Mc-Etgbc-St-Bka-DZt" border="0"></a>
+[![https://ibb.co/d09XYsML](https://i.ibb.co/272R40hs/4b-Thi4g-Gmp-JYXist-QIF1he-Ve-X57r6eyi-S9bjw1-DVdu-LZCjf4-Thc-Gl-DKYkw49vw-WYE0-JUg-Mc-Etgbc-St-Bka-DZt.webp)](https://ibb.co/d09XYsML)
 
-Инструкция
-Питон установите себе на компьютер 3.14.8
-Затем отредактируйте файл start.bat, поменяйте там путь до файла server.py
-Затем запускайте start.bat и затем AMO-local.cmd
 
-RU
+## RU
 
-Инструкция как перенести эмулятор в любой игровой клиент любой локализации.
+### Инструкция
 
-Перенесите следующие файлы в нужный для вас клиент.
+- Установите себе на компьютер питон 3.14.8 https://www.python.org/downloads/windows/
+- Затем отредактируйте файл `start.bat`, поменяйте там путь до файла `server.py`
+- Затем запускайте `start.bat` и затем `AMO-local.cmd`
 
-Папка data
-Папка server
-Файл AMo-local.cmd
-Файл Server.ten
-Файл ServerList.ten
-Файл start.bat
-Файл weberforclntv2.dll
+### Как перенести эмулятор в любой игровой клиент любой локализации.
 
-Затем установите питон последней версии и запустите файл server/server.py
+Перенесите следующие файлы и папки в нужный для вас клиент:
 
-Затем запустите AMo-local.cmd
+- Папка `data`
+- Папка `server`
+- файл `AMo-local.cmd`
+- файл `Server.ten`
+- файл `ServerList.ten`
+- файл `start.bat`
+- файл `weberforclntv2.dll`
 
-ENG
+Затем установите питон последней версии и запустите файл `server/server.py`
 
-Instructions on how to move the emulator into any game client, regardless of its localization.
+Затем запустите `AMo-local.cmd`
 
-Transfer the following files into your chosen game client:
+## ENG
 
-The 'data' folder
-The 'server' folder
-The 'AMo-local.cmd' file
-The 'Server.ten' file
-The 'ServerList.ten' file
-The 'start.bat' file
-The 'weberforclntv2.dll' file
+### Instructions
 
-Next, install the latest version of Python and run the 'server/server.py' file.
+- Install python 3.14.8 https://www.python.org/downloads/windows/
+- Edit file `start.bat` to change path for `server.py`
+- Run `start.bat` and after `AMO-local.cmd`
 
-Then, run 'AMo-local.cmd'.
+### How to move the emulator into any game client, regardless of its localization.
+
+Transfer the following files and folders into your chosen game client:
+
+- The 'data' folder
+- The 'server' folder
+- The 'AMo-local.cmd' file
+- The 'Server.ten' file
+- The 'ServerList.ten' file
+- The 'start.bat' file
+- The 'weberforclntv2.dll' file
+
+Next, install the latest version of Python and run the `server/server.py` file.
+
+Then, run `AMo-local.cmd`.
 
