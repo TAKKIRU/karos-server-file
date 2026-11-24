@@ -1,7 +1,7 @@
 # karos-server-file
 
 Karos Server File Emulator
-Готовый образ https://www.transfernow.net/dl/karos-server-emulator
+Готовый образ [https://www.transfernow.net/dl/karos-server-emulator](https://drive.google.com/file/d/1UgfJoFlVlX4c68zTyLmSjnpYD212pHJX/view?usp=drive_link)
 
 [Телеграм канал](https://t.me/studioandromeda), [Группа VK](https://vk.com/gmtakki)
 
